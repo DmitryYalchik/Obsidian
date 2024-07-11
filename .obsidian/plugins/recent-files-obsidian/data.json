@@ -5,16 +5,16 @@
       "path": "AttachmentProperty к элементами управления.md"
     },
     {
+      "basename": "Схема DTO",
+      "path": "Схема DTO.canvas"
+    },
+    {
       "basename": "XMLNS в WPF",
       "path": "XMLNS в WPF.md"
     },
     {
       "basename": "DTO (Data Transfer Object)",
       "path": "DTO (Data Transfer Object).md"
-    },
-    {
-      "basename": "Схема DTO",
-      "path": "Схема DTO.canvas"
     },
     {
       "basename": "Создание триггера SQL",

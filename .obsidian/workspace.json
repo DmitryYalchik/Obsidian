@@ -11,8 +11,12 @@
             "id": "d8d3f9cec5ebe710",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AttachmentProperty к элементами управления.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AttachmentProperty к элементами управления.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AttachmentProperty к элементами управления.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AttachmentProperty к элементами управления.md"
+              }
             }
           },
           {
@@ -160,14 +168,14 @@
   },
   "active": "d8d3f9cec5ebe710",
   "lastOpenFiles": [
+    "Схема DTO.canvas",
+    "Новый текстовый документ.txt",
     "~ист Microsoft Excel.tmp",
     "Лист Microsoft Excel.xlsx",
-    "Новый текстовый документ.txt",
     "AttachmentProperty к элементами управления.md",
     "test.txt",
     "XMLNS в WPF.md",
     "DTO (Data Transfer Object).md",
-    "Схема DTO.canvas",
     "Создание триггера SQL.md",
     "Добавление триггера в миграцию CSharp.md",
     "создайте ссылку.md",

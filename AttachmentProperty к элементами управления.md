@@ -7,30 +7,30 @@
    Создайте статический класс, который будет содержать вашу `Attached Property`. В этом примере мы создадим `Attached Property`, которая будет хранить флаг, указывающий, является ли кнопка "особенной".
 
    ```csharp
-   using System.Windows;
-
-   public static class ButtonProperties
-   {
-       // Создание DependencyProperty
-       public static readonly DependencyProperty IsSpecialProperty =
-           DependencyProperty.RegisterAttached(
+    using System.Windows;
+    
+    public static class ButtonProperties
+    {
+        // Создание DependencyProperty
+        public static readonly DependencyProperty IsSpecialProperty =
+             DependencyProperty.RegisterAttached(
                "IsSpecial", // Имя свойства
                typeof(bool), // Тип свойства
                typeof(ButtonProperties), // Владелец свойства
-               new PropertyMetadata(false)); // Значение по умолчанию
-
-       // Метод для получения значения свойства
-       public static bool GetIsSpecial(DependencyObject obj)
-       {
+               new PropertyMetadata(false)); // Значение по умолчанию 
+        
+        // Метод для получения значения свойства
+        public static bool GetIsSpecial(DependencyObject obj)
+        {
            return (bool)obj.GetValue(IsSpecialProperty);
-       }
-
-       // Метод для установки значения свойства
-       public static void SetIsSpecial(DependencyObject obj, bool value)
-       {
+        }
+        
+        // Метод для установки значения свойства
+        public static void SetIsSpecial(DependencyObject obj, bool value)
+        {
            obj.SetValue(IsSpecialProperty, value);
-       }
-   }
+        }
+    }
    ```
 
 2. **Используйте `Attached Property` в XAML**:
