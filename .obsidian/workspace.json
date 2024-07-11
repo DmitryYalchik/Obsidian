@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "4b4dcb59378e531a",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cdbd4962947646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "289dd5a335f52ec2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ad1ed7b5f8d097",
+    "type": "split",
+    "children": [
+      {
+        "id": "74d359061ec1300f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94e4a444af2ee4ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecf9a9c59819d476",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97cb542c611f82c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e62bb5a30eee5a7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4b32a17f54fdeb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "327a8e3a7c09052c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7883cef0c365d308",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53259d8febc0b112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e61fbdf532403597",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e24ed5e778dc36d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "80ecdbdd4a9fed8b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "ecf9a9c59819d476",
+  "lastOpenFiles": [
+    "test.txt",
+    "Новый текстовый документ.txt",
+    "XMLNS в WPF.md",
+    "DTO (Data Transfer Object).md",
+    "Схема DTO.canvas",
+    "Создание триггера SQL.md",
+    "Добавление триггера в миграцию CSharp.md",
+    "создайте ссылку.md",
+    "Добро пожаловать.md"
+  ]
+}
