@@ -43,9 +43,9 @@
 	   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 	   xmlns:local="clr-namespace:WpfApp"
 	   Title="MainWindow" Height="350" Width="525">
-	<Grid>
-	   <Button Content="Click Me" local:ButtonProperties.IsSpecial="True" />
-	</Grid>
+		<Grid>
+		   <Button Content="Click Me" local:ButtonProperties.IsSpecial="True" />
+		</Grid>
 </Window>
    ```
 
