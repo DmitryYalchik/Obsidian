@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Без названия",
-      "path": "Без названия.md"
+      "basename": "Добавление триггера в миграцию CSharp",
+      "path": "Добавление триггера в миграцию CSharp.md"
     },
     {
       "basename": "AttachmentProperty к элементами управления",
@@ -15,10 +15,6 @@
     {
       "basename": "Создание триггера SQL",
       "path": "Создание триггера SQL.md"
-    },
-    {
-      "basename": "Добавление триггера в миграцию CSharp",
-      "path": "Добавление триггера в миграцию CSharp.md"
     },
     {
       "basename": "XMLNS в WPF",
