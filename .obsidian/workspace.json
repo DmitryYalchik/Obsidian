@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76cdbd4962947646",
+        "id": "ac2caa01f5048ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "289dd5a335f52ec2",
+            "id": "d8d3f9cec5ebe710",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,8 +158,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ecf9a9c59819d476",
+  "active": "d8d3f9cec5ebe710",
   "lastOpenFiles": [
+    "AttachmentProperty к элементами управления.md",
     "test.txt",
     "Новый текстовый документ.txt",
     "XMLNS в WPF.md",
