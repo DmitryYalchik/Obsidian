@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Без названия",
+      "path": "Без названия.md"
+    },
+    {
       "basename": "AttachmentProperty к элементами управления",
       "path": "AttachmentProperty к элементами управления.md"
     },
@@ -9,16 +13,20 @@
       "path": "Схема DTO.canvas"
     },
     {
+      "basename": "Создание триггера SQL",
+      "path": "Создание триггера SQL.md"
+    },
+    {
+      "basename": "Добавление триггера в миграцию CSharp",
+      "path": "Добавление триггера в миграцию CSharp.md"
+    },
+    {
       "basename": "XMLNS в WPF",
       "path": "XMLNS в WPF.md"
     },
     {
       "basename": "DTO (Data Transfer Object)",
       "path": "DTO (Data Transfer Object).md"
-    },
-    {
-      "basename": "Создание триггера SQL",
-      "path": "Создание триггера SQL.md"
     }
   ],
   "omittedPaths": []

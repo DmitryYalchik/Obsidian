@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2caa01f5048ce7",
+        "id": "6c1d9c29f85ba47a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d3f9cec5ebe710",
+            "id": "1058182fab9bdbc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AttachmentProperty к элементами управления.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AttachmentProperty к элементами управления.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AttachmentProperty к элементами управления.md",
+                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AttachmentProperty к элементами управления.md"
+                "file": "Без названия.md"
               }
             }
           },
@@ -166,18 +166,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8d3f9cec5ebe710",
+  "active": "1058182fab9bdbc8",
   "lastOpenFiles": [
+    "Без названия.md",
+    "AttachmentProperty к элементами управления.md",
+    "Тест заголовка.md",
     "Схема DTO.canvas",
+    "Создание триггера SQL.md",
+    "Добавление триггера в миграцию CSharp.md",
+    "XMLNS в WPF.md",
     "Новый текстовый документ.txt",
     "~ист Microsoft Excel.tmp",
     "Лист Microsoft Excel.xlsx",
-    "AttachmentProperty к элементами управления.md",
     "test.txt",
-    "XMLNS в WPF.md",
     "DTO (Data Transfer Object).md",
-    "Создание триггера SQL.md",
-    "Добавление триггера в миграцию CSharp.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
   ]
