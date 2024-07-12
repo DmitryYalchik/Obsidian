@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Схема DTO",
+      "path": "Схема DTO.canvas"
+    },
+    {
       "basename": "DTO (Data Transfer Object)",
       "path": "DTO (Data Transfer Object).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "AttachmentProperty к элементами управления",
       "path": "AttachmentProperty к элементами управления.md"
-    },
-    {
-      "basename": "Схема DTO",
-      "path": "Схема DTO.canvas"
     },
     {
       "basename": "Создание триггера SQL",
