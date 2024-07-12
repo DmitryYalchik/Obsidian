@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97c13ea7e10fdce2",
+        "id": "8ad736640af72a63",
         "type": "tabs",
         "children": [
           {
-            "id": "2885fc33d2175861",
+            "id": "ba17522f986b142a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,13 +158,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2885fc33d2175861",
+  "active": "ba17522f986b142a",
   "lastOpenFiles": [
-    "XMLNS в WPF.md",
-    "DTO (Data Transfer Object).md",
-    "Без названия.md",
-    "Добавление триггера в миграцию CSharp.md",
     "AttachmentProperty к элементами управления.md",
+    "DTO (Data Transfer Object).md",
+    "XMLNS в WPF.md",
+    "абоба.md",
+    "Добавление триггера в миграцию CSharp.md",
     "Тест заголовка.md",
     "Схема DTO.canvas",
     "Создание триггера SQL.md",
