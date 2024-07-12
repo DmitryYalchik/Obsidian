@@ -11,15 +11,8 @@
             "id": "1058182fab9bdbc8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Схема DTO.canvas",
-                "viewState": {
-                  "x": -2135,
-                  "y": -605,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схема DTO.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схема DTO.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Схема DTO.canvas"
-              }
+              "state": {}
             }
           },
           {
