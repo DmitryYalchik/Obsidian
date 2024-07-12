@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"30fd72dbc0ec14be","type":"text","text":"Класс","x":-2260,"y":-700,"width":250,"height":60},
-		{"id":"58910533378b2d5b","type":"text","text":"Приложение / слой","x":-2260,"y":-570,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"6d9501daddf336c7","fromNode":"30fd72dbc0ec14be","fromSide":"bottom","toNode":"58910533378b2d5b","toSide":"top","label":"Данные"}
-	]
-}
