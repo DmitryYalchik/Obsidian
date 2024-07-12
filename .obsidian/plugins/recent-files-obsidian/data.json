@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DTO (Data Transfer Object)",
+      "path": "DTO (Data Transfer Object).md"
+    },
+    {
       "basename": "Без названия",
       "path": "Без названия.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "XMLNS в WPF",
       "path": "XMLNS в WPF.md"
-    },
-    {
-      "basename": "DTO (Data Transfer Object)",
-      "path": "DTO (Data Transfer Object).md"
     }
   ],
   "omittedPaths": []
