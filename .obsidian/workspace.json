@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c1d9c29f85ba47a",
+        "id": "97c13ea7e10fdce2",
         "type": "tabs",
         "children": [
           {
-            "id": "1058182fab9bdbc8",
+            "id": "2885fc33d2175861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XMLNS в WPF.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XMLNS в WPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XMLNS в WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "XMLNS в WPF.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1058182fab9bdbc8",
+  "active": "2885fc33d2175861",
   "lastOpenFiles": [
+    "XMLNS в WPF.md",
     "DTO (Data Transfer Object).md",
     "Без названия.md",
     "Добавление триггера в миграцию CSharp.md",
@@ -175,7 +168,6 @@
     "Тест заголовка.md",
     "Схема DTO.canvas",
     "Создание триггера SQL.md",
-    "XMLNS в WPF.md",
     "Новый текстовый документ.txt",
     "~ист Microsoft Excel.tmp",
     "Лист Microsoft Excel.xlsx",
