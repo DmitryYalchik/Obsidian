@@ -11,12 +11,8 @@
             "id": "ba17522f986b142a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jbnkjhbl.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jbnkjhbl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jbnkjhbl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "jbnkjhbl.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,12 +158,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "94e4a444af2ee4ce",
+  "active": "ba17522f986b142a",
   "lastOpenFiles": [
-    "jbnkjhbl.md",
     "AttachmentProperty к элементами управления.md",
     "DTO (Data Transfer Object).md",
     "XMLNS в WPF.md",
+    "jbnkjhbl.md",
     "абоба.md",
     "Добавление триггера в миграцию CSharp.md",
     "Тест заголовка.md",
