@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad736640af72a63",
+        "id": "e3a0b5363d3bc806",
         "type": "tabs",
         "children": [
           {
-            "id": "ba17522f986b142a",
+            "id": "37b4883e14a641f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -158,8 +158,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ba17522f986b142a",
+  "active": "37b4883e14a641f9",
   "lastOpenFiles": [
+    "Создание триггера SQL.md",
+    "SQL Server через интернет.md",
+    "Pasted image 20240715163341.png",
+    "Pasted image 20240715163601.png",
+    "Pasted image 20240715163439.png",
+    "Pasted image 20240715163349.png",
     "AttachmentProperty к элементами управления.md",
     "DTO (Data Transfer Object).md",
     "XMLNS в WPF.md",
@@ -168,7 +174,6 @@
     "Добавление триггера в миграцию CSharp.md",
     "Тест заголовка.md",
     "Схема DTO.canvas",
-    "Создание триггера SQL.md",
     "Новый текстовый документ.txt",
     "~ист Microsoft Excel.tmp",
     "Лист Microsoft Excel.xlsx",

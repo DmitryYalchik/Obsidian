@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Создание триггера SQL",
+      "path": "Создание триггера SQL.md"
+    },
+    {
+      "basename": "SQL Server через интернет",
+      "path": "SQL Server через интернет.md"
+    },
+    {
+      "basename": "Pasted image 20240715163439",
+      "path": "Pasted image 20240715163439.png"
+    },
+    {
+      "basename": "Pasted image 20240715163349",
+      "path": "Pasted image 20240715163349.png"
+    },
+    {
       "basename": "AttachmentProperty к элементами управления",
       "path": "AttachmentProperty к элементами управления.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Добавление триггера в миграцию CSharp",
       "path": "Добавление триггера в миграцию CSharp.md"
-    },
-    {
-      "basename": "Создание триггера SQL",
-      "path": "Создание триггера SQL.md"
     }
   ],
   "omittedPaths": []
